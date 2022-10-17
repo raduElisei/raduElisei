@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @raduElisei
-- 👀 I’m interested in backend development using Node.js with Express, MongoDB with Mongoose.
-- 🌱 I’m currently learning backend development using a Udemy course.
-- 💞️ I’m looking to collaborate on anything backend related.
+- 👀 I’m working in backend development using .Net 6 with ASP.NET Core and Entity Framework Core.
+- 🌱 I’m currently a trainee at IT Perspectives.
 - 📫 How to reach me: my email address is radu.elisei@yahoo.com
 
 <!---
