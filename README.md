@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raduElisei
 - 👀 I’m working in backend development using .Net 6 with ASP.NET Core and Entity Framework Core.
-- 🌱 I’m currently a trainee at IT Perspectives.
+- 🌱 I’m currently a developer at Indsoft.
 - 📫 How to reach me: my email address is radu.elisei@yahoo.com
 
 <!---
